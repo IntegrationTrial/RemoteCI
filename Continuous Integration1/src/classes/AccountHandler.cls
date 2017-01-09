@@ -1,4 +1,5 @@
 public class AccountHandler {
+	//gdfc
     public static Account insertNewAccount(String name) {
         Account a = new Account();
         system.debug('hlkk');
